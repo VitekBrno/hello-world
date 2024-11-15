@@ -7,7 +7,7 @@ const message = ref('Hello World')
 <template>
   <div class="hello-card">
     <h1>{{ message }}</h1>
-    <p>Welcome to my Vue.js application</p>
+    <p>Welcome to my new Vue.js application</p>
   </div>
 </template>
 
